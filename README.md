@@ -1,6 +1,6 @@
 # enana-image
 
-《绘名号高性能！》bot 正在使用的图片底层工具代码。
+enanaBot 正在使用的图片底层工具代码。
 
 ## 功能
 
@@ -13,7 +13,7 @@
 
 ## 依赖
 
-按实际使用选择安装：
+安装：
 
 ```bash
 pip install pillow playwright nonebot-adapter-onebot nonebot-plugin-alconna
