@@ -19,7 +19,3 @@
 pip install pillow playwright nonebot-adapter-onebot nonebot-plugin-alconna
 playwright install chromium
 ```
-
-## 说明
-
-这里只放通用图片工具代码，不包含 bot 配置、密钥、用户数据和具体插件业务逻辑。
